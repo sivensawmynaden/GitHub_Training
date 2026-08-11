@@ -5,8 +5,6 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, SS Academy! With one more commit");
-            Console.WriteLine("Hello, SS Academy! With one more commit");
-            Console.WriteLine("Hello, SS Academy! With one more commit");
         }
     }
 }
